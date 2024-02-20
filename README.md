@@ -1,4 +1,4 @@
-# Preview Aapp Chess
+# Preview App Chess
 ![download](https://github.com/andriputra/formulatrix-chess/assets/10189098/151959cb-3df5-435f-a41e-254e1b94f5a1)
 
 
